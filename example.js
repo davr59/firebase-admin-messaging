@@ -1,11 +1,6 @@
 const serviceAccount = require('./service-account.json');
+const { message } = require('./message');
 
-var message = {
-  notification: {
-    title: 'title',
-    body: 'body'
-  },
-  topic: 'topic'
-};
+const { sendMessage } = require('./messaging');
 
-await sendMessage(serviceAccount, message);
+sendMessage(serviceAccount, message);

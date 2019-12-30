@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-
 const admin = require('firebase-admin');
 
 async function sendMessage(serviceAccount, message) {

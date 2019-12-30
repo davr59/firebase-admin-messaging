@@ -11,8 +11,7 @@
     "eslint-plugin-import": "^2.19.1"
   },
   "scripts": {
-    "export": "node example-firestore2json.js",
-    "import": "node example-json2firestore.js"
+    "send": "node example.js"
   },
   "author": "davr59",
   "private": true
