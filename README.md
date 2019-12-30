@@ -29,6 +29,8 @@ Establecer la cuenta de servicio de firebase en service-account.json.
 
 [Cuenta de servicio - Cómo generar una nueva llave privada](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
 
+### Sending message | Enviar mensaje
+
 For sending the message, run:
 
 Para enviar el mensaje, ejecutar:
