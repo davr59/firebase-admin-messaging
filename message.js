@@ -1,3 +1,5 @@
+/* eslint-disable comma-dangle */
+
 const message = {
   notification: {
     title: 'title',
