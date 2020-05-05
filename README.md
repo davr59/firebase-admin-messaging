@@ -1,5 +1,5 @@
 # firebase-admin-messaging
-Firebase Admin Messaging | Mensajería.
+Firebase Admin Messaging | Firebase Admin Mensajería.
 
 Function for cloud messaging with Firebase Admin Messaging. Reference: [Messaging | Admin Node.js | Firebase | Documentation](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
 
