@@ -1,9 +1,9 @@
 # firebase-admin-messaging
 Firebase Admin Messaging | Firebase Admin Mensajería.
 
-Function for cloud messaging with Firebase Admin Messaging. Reference: [Messaging | Admin Node.js | Firebase | Documentation](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
+Node.js Function for cloud messaging with Firebase Admin Messaging. Reference: [Messaging | Admin Node.js | Firebase | Documentation](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
 
-Función para mensajería en la nube con Firebase Admin Mensajería. Referencia: [Messaging | Admin Node.js | Firebase | Documentación](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
+Función de Node.js para mensajería en la nube con Firebase Admin Mensajería. Referencia: [Messaging | Admin Node.js | Firebase | Documentación](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
 
 ## Quickstart | Inicio rápido
 
