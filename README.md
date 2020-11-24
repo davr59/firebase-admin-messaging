@@ -11,7 +11,7 @@ Set your message in message.js:
 
 Establecer el mensaje en message.js:
 
-```
+```javascript
 const message = {
   notification: {
     title: 'title',
@@ -35,7 +35,9 @@ For sending the message, run:
 
 Para enviar el mensaje, ejecutar:
 
-```npm run-script send```
+```bash
+npm run send
+```
 
 ## Want to help? | ¿Quiere ayudar?
 
