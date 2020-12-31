@@ -1,11 +1,9 @@
-/* eslint-disable comma-dangle */
-
 const message = {
   notification: {
     title: 'title',
-    body: 'body'
+    body: 'body',
   },
-  topic: 'topic'
+  topic: 'topic',
 };
 
 exports.message = message;
