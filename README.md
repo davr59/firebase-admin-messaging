@@ -23,11 +23,11 @@ const message = {
 
 Set firebase service account in service-account.json.
 
-[Service account - How to generate new private key](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
+- [Service account - How to generate new private key](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
 
 Establecer la cuenta de servicio de firebase en service-account.json.
 
-[Cuenta de servicio - Cómo generar una nueva llave privada](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
+- [Cuenta de servicio - Cómo generar una nueva llave privada](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
 
 ### Sending message | Enviar mensaje
 
