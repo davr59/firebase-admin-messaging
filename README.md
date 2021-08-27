@@ -1,4 +1,4 @@
-# Firebase Admin Messaging | Firebase Admin Mensajería
+# firebase admin messaging | firebase admin mensajería
 
 Node.js Function for cloud messaging with Firebase Admin Messaging.
 
