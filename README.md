@@ -17,10 +17,10 @@ Establecer el mensaje en message.js:
 ```javascript
 const message = {
   notification: {
-    title: "title",
-    body: "body",
+    title: 'title',
+    body: 'body'
   },
-  topic: "topic",
+  topic: 'topic'
 };
 ```
 
