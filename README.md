@@ -1,9 +1,12 @@
-# firebase-admin-messaging
-Firebase Admin Messaging | Firebase Admin Mensajería.
+# firebase admin messaging | firebase admin mensajería
 
-Node.js Function for cloud messaging with Firebase Admin Messaging. Reference: [Messaging | Admin Node.js | Firebase | Documentation](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
+Node.js Function for cloud messaging with Firebase Admin Messaging.
 
-Función de Node.js para mensajería en la nube con Firebase Admin Mensajería. Referencia: [Messaging | Admin Node.js | Firebase | Documentación](https://firebase.google.com/docs/reference/admin/node/admin.messaging).
+Función de Node.js para mensajería en la nube con Firebase Admin Mensajería.
+
+## References | Referencias
+
+- [Messaging | Admin Node.js | Firebase](https://firebase.google.com/docs/reference/admin/node/admin.messaging)
 
 ## Quickstart | Inicio rápido
 
@@ -14,20 +17,20 @@ Establecer el mensaje en message.js:
 ```javascript
 const message = {
   notification: {
-    title: 'title',
-    body: 'body'
+    title: "title",
+    body: "body",
   },
-  topic: 'topic'
+  topic: "topic",
 };
 ```
 
 Set firebase service account in service-account.json.
 
+- [Service account - How to generate new private key](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
+
 Establecer la cuenta de servicio de firebase en service-account.json.
 
-[Service account - How to generate new private key](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
-
-[Cuenta de servicio - Cómo generar una nueva llave privada](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
+- [Cuenta de servicio - Cómo generar una nueva llave privada](https://firebase.google.com/docs/admin/setup?authuser=0#add_firebase_to_your_app)
 
 ### Sending message | Enviar mensaje
 
